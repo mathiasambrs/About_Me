@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Mathias Ambrosi</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi my name is Mathias
+    \n\nI love football.
+    \n\nMy idol is Cristiano Ronaldo he is also called CR7 by his fans. What I prefer in this sport is that you have to take information
+        every time of where are others players, even from the other team.
+    \nThe team that I support is Juventus that is the club that makes me feel a lot of emotions when I see them play.
+    \n\nThe fun fact is that I never played a single game of football, I never went to an academy to learn how to play.
+        Maybe that is weird for those who practice and watch this sport.
+    \nSometimes, I play with my friends for fun but I am obviously not good at all, that is a facts that I cannot denied.
+    \n\nPersonally, I watch loads and loads of football matches, I mean probably more than 20 per week.
+    \nIt makes me understand better this sport and also the feeling of being a fan with all that entails.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
